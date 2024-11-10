@@ -1,73 +1,102 @@
-<!-- Animated Header -->
+<!-- Professional Header with Modern Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=E%20Jayanth%20Madhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;I'm+a+Full+Stack+Developer+💻;Always+learning+new+things+🚀)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Tech+Enthusiast)
+</div>
 
-  <!-- Profile Views Counter -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+<!-- Modern Introduction -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to my coding universe!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=javatcoding1&label=Profile%20Views&color=0891b2&style=flat" alt="profile-views"/>
+  <img src="https://img.shields.io/github/followers/javatcoding1?label=Followers&style=social" alt="followers"/>
+</p>
+
+<!-- Professional Stats Section -->
+<div align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=javatcoding1&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="stats">
 </div>
 
 <!-- About Me Section -->
-## 🚀 About Me
-```javascript
-const developer = {
-  name: "Your Name",
-  role: "Full Stack Developer",
-  languages: ["JavaScript", "TypeScript", "Python", "Java"],
-  tools: ["React", "Node.js", "Docker", "AWS"],
-  challenge: "I'm currently learning AI/ML 🤖"
-}
+## 💫 About Me
+```js
+const jayanth = {
+  location: "India 🇮🇳",
+  currentFocus: "Next.js & Shad CN 🚀",
+  code: {
+    languages: ["TypeScript", "JavaScript", "Python", "Java"],
+    frontend: ["React", "Next.js", "TailwindCSS"],
+    backend: ["Node.js", "Express", "NestJS", "Django"],
+    database: ["MongoDB", "MySQL", "SQLite"],
+    tools: ["Git", "Docker", "AWS"],
+    ai: ["PyTorch", "Scikit-learn", "OpenCV"]
+  },
+  challenge: "Constantly pushing the boundaries of what's possible in web development"
+};
 ```
 
-<!-- GitHub Stats -->
+<!-- Tech Stack with Modern Icons -->
+## 🛠️ Technology Arsenal
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,java,aws" /><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,mongodb,mysql,docker,git,vscode,figma,postman" />
 </div>
 
-<!-- Skills Section -->
-## 🛠️ Skills & Tools
+<!-- GitHub Stats with Modern Theme -->
+<details open>
+<summary><h2>📊 GitHub Analytics</h2></summary>
 <div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</div>
-
-<!-- Projects Section -->
-## 🔥 Featured Projects
-<div align="center">
-  
-  [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical)](https://github.com/your-username/project-1)
-  [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical)](https://github.com/your-username/project-2)
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=javatcoding1&show_icons=true&count_private=true&hide_border=true&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=javatcoding1&hide_border=true&stroke=37BCF6&ring=37BCF6&fire=37BCF6&currStreakNum=c9d1d9&sideNums=37BCF6&currStreakLabel=37BCF6&sideLabels=37BCF6&dates=c9d1d9&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
-## 📊 Contribution Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=javatcoding1&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=37BCF6&line=37BCF6&point=fff" alt="Activity Graph"/>
+</div>
+</details>
+
+<!-- Projects Section -->
+<details>
+<summary><h2>🎯 Featured Projects</h2></summary>
+<div align="center">
+  <a href="https://github.com/javatcoding1/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=javatcoding1&repo=project1&hide_border=true&bg_color=0d1117&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9"/>
+  </a>
+  <a href="https://github.com/javatcoding1/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=javatcoding1&repo=project2&hide_border=true&bg_color=0d1117&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9"/>
+  </a>
+</div>
+</details>
 
 <!-- Connect Section -->
 ## 🤝 Let's Connect
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+  <a href="mailto:jaminmadhav1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/jayanthmadhav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jayanthmadhav" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
-<!-- Footer -->
+<!-- Professional Footer -->
 <div align="center">
-  
-  ### Show some ❤️ by starring repositories that you find good!
-  
-  ![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<!-- Hidden Gems -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </div>
