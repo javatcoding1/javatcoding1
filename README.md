@@ -10,10 +10,9 @@
   </p>
 </div>
 
-
+<!-- Add your custom GIF here -->
 <div align="center">
-  <!-- Add your custom GIF here -->
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b32a8c179531059.64fb11033cc3c.gif" alt="Custom GIF" width="600" height="300"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b32a8c179531059.64fb11033cc3c.gif" alt="Custom GIF" width="100%" height="80%"/>
 </div>
 
 <!-- Modern Introduction -->
@@ -53,6 +52,8 @@ const jayanth = {
 ```
 <!-- Tech Stack with Modern Icons -->
 🛠️ Tech Stack
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,java,aws,tailwind,mongodb,mysql,docker,git,vscode,figma,postman" /> </p> <!-- GitHub Analytics --> <details open> <summary><h2>📊 GitHub Analytics</h2></summary> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=javatcoding1&show_icons=true&count_private=true&hide_border=true&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=javatcoding1&hide_border=true&stroke=37BCF6&ring=37BCF6&fire=37BCF6&currStreakNum=c9d1d9&sideNums=37BCF6&currStreakLabel=37BCF6&sideLabels=37BCF6&dates=c9d1d9&background=0d1117" alt="GitHub Streak" /> </div> <div align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=javatcoding1&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=37BCF6&line=37BCF6&point=fff" alt="Activity Graph"/> </div> </details> <!-- Featured Projects Section --> <details> <summary><h2>🎯 Featured Projects</h2></summary> <div align="center"> <a href="https://github.com/javatcoding1/project1"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=javatcoding1&repo=project1&hide_border=true&bg_color=0d1117&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9"/> </a> <a href="https://github.com/javatcoding1/project2"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=javatcoding1&repo=project2&hide_border=true&bg_color=0d1117&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9"/> </a> </div> </details> <!-- Connect Section -->
 🤝 Connect with Me
-<p align="center"> <a href="mailto:jaminmadhav1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://linkedin.com/in/jayanthmadhav"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/jayanthmadhav"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div> 
+
+<p align="center"> <a href="mailto:jaminmadhav1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://linkedin.com/in/jayanthmadhav"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/jayanthmadhav"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div> ```
