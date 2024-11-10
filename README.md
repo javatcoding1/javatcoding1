@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=E%20Jayanth%20Madhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
+<!-- Coding GIF Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" width="100%" />
+</p>
+
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=30&duration=4000&pause=1000&color=6FA4FC&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Tech+Enthusiast)
@@ -61,6 +66,15 @@ const jayanth = {
 <!-- Activity Graph -->
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=javatcoding1&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=37BCF6&line=37BCF6&point=fff" alt="Activity Graph"/>
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javatcoding1/javatcoding1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javatcoding1/javatcoding1/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/javatcoding1/javatcoding1/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 </details>
 
