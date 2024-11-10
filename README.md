@@ -1,116 +1,58 @@
-<!-- Animated Header with Custom Banner -->
+<!-- Professional Header with Modern Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=E%20Jayanth%20Madhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+<!-- Typing Animation -->
+<div style="position: relative; width: 100%; height: 100vh; background: url('https://your-link-to-the-gif.gif') no-repeat center center; background-size: cover; display: flex; align-items: center; justify-content: center;">
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+E+Jayanth+Madhav;A+Full+Stack+Developer;Passionate+About+Tech+%26+Coding;Always+Learning+New+Things">
+  </p>
+</div>
+
+
+<div align="center">
+  <!-- Add your custom GIF here -->
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b32a8c179531059.64fb11033cc3c.gif" alt="Custom GIF" width="600" height="300"/>
+</div>
+
+<!-- Modern Introduction -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to my coding universe!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Profile Stats & Trophies -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding" style="width: 100%; height: auto;">
+  <img src="https://komarev.com/ghpvc/?username=javatcoding1&label=Profile%20Views&color=0891b2&style=flat" alt="profile-views"/>
+  <img src="https://img.shields.io/github/followers/javatcoding1?label=Followers&style=social" alt="followers"/>
 </p>
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=2F90F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+E+Jayanth+Madhav;A+Passionate+Frontend+Developer;Full+Stack+Development+Enthusiast;Always+Learning+New+Things)
+  <img src="https://github-stats-alpha.vercel.app/api?username=javatcoding1&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
 </div>
 
-<!-- Animated Wave -->
-<img width="100%" height="50" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
-
-<!-- Profile Views and Trophies -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javatcoding1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views">
-  <img src="https://img.shields.io/github/followers/javatcoding1?style=for-the-badge&color=0e75b6" alt="followers">
-</p>
-
-<!-- Animated Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=javatcoding1&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="trophies">
-  </a>
-</p>
-
-<!-- About Me Section with Animation -->
+<!-- About Me Section -->
 ## 🚀 About Me
 ```typescript
 const jayanth = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    currentFocus: "Next.js and Shad CN",
-    askMeAbout: ["Web Dev", "Tech", "Frontend", "Backend"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django"]
-        },
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        ml: ["PyTorch", "Scikit-learn", "Pandas", "OpenCV"]
-    },
-    funFact: "I am fun! 😄"
-};
+  location: "India 🇮🇳",
+  currentFocus: "Next.js & Shad CN 🚀",
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  askMeAbout: ["Web Dev", "Tech", "Frontend", "Backend"],
+  technologies: {
+      frontEnd: ["React", "Next.js", "Tailwind"],
+      backEnd: ["Node.js", "Express", "NestJS", "Django"],
+      databases: ["MongoDB", "MySQL", "SQLite"],
+      ml: ["PyTorch", "Scikit-learn", "Pandas", "OpenCV"]
+  },
+  funFact: "I am fun! 😄"
+};```
 ```
-
-<!-- Tech Stack Animation -->
-## 🛠️ Tech Stack
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-</div>
-
-<!-- Detailed Skills -->
-<details>
-<summary>🔧 More Skills</summary>
-<br>
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<!-- ... (rest of your existing skills icons) ... -->
-</p>
-</details>
-
-<!-- GitHub Stats with Animations -->
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javatcoding1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javatcoding1&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javatcoding1&theme=tokyonight" alt="GitHub Streak"/>
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javatcoding1&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<!-- Connect Section with Animated Icons -->
-## 🤝 Connect with me
-<div align="center">
-  <a href="mailto:jaminmadhav1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/jayanthmadhav">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/jayanthmadhav">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-  <!-- Animated Snake -->
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake">
-</div>
-
-<!-- Animated Wave Bottom -->
-<img width="100%" height="50" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg"/>
-
-<!-- Spotify Playing -->
-<div align="center">
-  
-  ### 🎧 Spotify Playing
-  
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-</div>
+<!-- Tech Stack with Modern Icons -->
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,java,aws,tailwind,mongodb,mysql,docker,git,vscode,figma,postman" /> </p> <!-- GitHub Analytics --> <details open> <summary><h2>📊 GitHub Analytics</h2></summary> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=javatcoding1&show_icons=true&count_private=true&hide_border=true&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=javatcoding1&hide_border=true&stroke=37BCF6&ring=37BCF6&fire=37BCF6&currStreakNum=c9d1d9&sideNums=37BCF6&currStreakLabel=37BCF6&sideLabels=37BCF6&dates=c9d1d9&background=0d1117" alt="GitHub Streak" /> </div> <div align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=javatcoding1&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=37BCF6&line=37BCF6&point=fff" alt="Activity Graph"/> </div> </details> <!-- Featured Projects Section --> <details> <summary><h2>🎯 Featured Projects</h2></summary> <div align="center"> <a href="https://github.com/javatcoding1/project1"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=javatcoding1&repo=project1&hide_border=true&bg_color=0d1117&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9"/> </a> <a href="https://github.com/javatcoding1/project2"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=javatcoding1&repo=project2&hide_border=true&bg_color=0d1117&title_color=37BCF6&icon_color=37BCF6&text_color=c9d1d9"/> </a> </div> </details> <!-- Connect Section -->
+🤝 Connect with Me
+<p align="center"> <a href="mailto:jaminmadhav1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://linkedin.com/in/jayanthmadhav"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/jayanthmadhav"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p> <!-- Footer --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </div> 
