@@ -13,6 +13,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Badal-Gupta/Interview_Prep_Questions/main/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" alt="Developer Illustration" width="100%" style="border-radius: 12px; max-width: 900px;"/>
+</div>
+
+<br/>
+
 ## 🚀 About Me
 
 ```typescript
@@ -81,6 +87,16 @@ Professional networking for builders, learners, and mentors — match instantly 
 <br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=javatcoding1&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=37BCF6&line=37BCF6&point=fff" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=javatcoding1&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 
 </div>
 
